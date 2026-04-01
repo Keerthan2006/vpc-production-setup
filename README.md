@@ -1,9 +1,9 @@
 # 📘 AWS Highly Available VPC Architecture with ALB & Auto Scaling
 
-### Architecture Overview: https://docs.aws.amazon.com/images/vpc/latest/userguide/images/vpc-example-private-subnets.png
+##### Architecture Overview: https://docs.aws.amazon.com/images/vpc/latest/userguide/images/vpc-example-private-subnets.png
 
 
-### Video Demo: https://drive.google.com/file/d/12HCxhAJ-WhcTyuRLWTwQqoLrf1ps3I8n/view?usp=sharing
+##### Video Demo: https://drive.google.com/file/d/12HCxhAJ-WhcTyuRLWTwQqoLrf1ps3I8n/view?usp=sharing
 
 
 ## 📌 Project Overview
